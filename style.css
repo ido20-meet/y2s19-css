@@ -1,18 +1,54 @@
 h1 { color:#0008AF;
 	font-family: comic sans MS;
-	background: white;
  }
 #fact {
 	color:blue;
-	background:white;
 	font-family:arial;
 	font-size: 50px;
 }
 .importent {
 	color:purple;
 	font-family:comic sans MS;
-	background:white;
 	font-size:60px;
 }
 body {
-  background-image: url("spongbob.png");
+  background-image: url("spongbob.png");}
+#ul {
+    text-align: center;
+    list-style-position: inside;
+    color:#A6ABF4;
+    font-family:comic sans MS;
+    font-size:30px;
+}
+body {
+    text-align: center;
+    list-style-position: inside;
+}
+selector {
+	border: 5px solid red;
+
+}
+* {
+	box-sizing: border-box;
+}
+#fries {
+	font-family:comic sans MS;
+	color:#70B9C1;
+}
+#batman {
+	background:#F2E313;
+}
+.title {
+	height: 60px;
+	width: 100%;
+}
+.sidebar {
+	font-family:comic sans MS;
+	font-size: 50px;
+	color:#D36176;
+	background:white;
+}
+#burger {
+	color:#D36176;
+
+}
