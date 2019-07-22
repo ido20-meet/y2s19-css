@@ -1,1 +1,18 @@
-
+h1 { color:#0008AF;
+	font-family: comic sans MS;
+	background: white;
+ }
+#fact {
+	color:blue;
+	background:white;
+	font-family:arial;
+	font-size: 50px;
+}
+.importent {
+	color:purple;
+	font-family:comic sans MS;
+	background:white;
+	font-size:60px;
+}
+body {
+  background-image: url("spongbob.png");
