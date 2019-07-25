@@ -34,6 +34,7 @@ selector {
 #fries {
 	font-family:comic sans MS;
 	color:#70B9C1;
+	background: red;
 }
 #batman {
 	background:#F2E313;
@@ -51,4 +52,14 @@ selector {
 #burger {
 	color:#D36176;
 
+
+}
+
+#bu {
+	background:red;
+
+}
+
+#lol {
+	text-align:center;
 }
